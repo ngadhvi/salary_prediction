@@ -1,4 +1,4 @@
-# Salary Prediction
+# Salary Prediction (In Progress)
 The goal of the project is to develop an Advanced Predictive Model for salary predictions. Here, we are given train_features.csv and train_salaries.csv. Crunching these in our model to predict salaries for the job descriptions given in the test_features.csv.
 
 For simplicity and better understanding, the project has been segmented into 4 sections as seperate [Jupyter notebooks](https://jupyter.org). Raw data is kept seperate from the data we would be using and playing with during the development process.
