@@ -6,6 +6,7 @@ For simplicity and better understanding, the project has been segmented into 4 s
 The directory structure is as follows:
 
 salary_prediction
+           .
            |-- raw_data                  <-- Contains the untouched downloaded data 
            |-- derived_data              <-- Unzipped files from the raw data. We will use files in this folder to work with
            |-- models                    <-- Has the trained model to do test/inference with
