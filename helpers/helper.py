@@ -12,3 +12,4 @@ def merge_data(feature, target):
     """
     merged_df = pd.merge(feature, target, on='jobId')
     return merged_df
+
