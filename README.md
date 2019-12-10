@@ -7,7 +7,7 @@ For simplicity and better understanding, the project has been segmented into 4 s
 ```bash
 salary_prediction
            ├── raw_data                   # Contains the untouched downloaded data [Avoided in Git due to space requirements by Git]
-           ├── derived_data               # Unzipped files from the raw data. We will use files in this folder to work with
+           ├── derived_data               # Unzipped files from the raw data. We will use files in this folder to use in the project
            ├── models                     # Has the trained model to do test/inference with
            ├── 01_Data_Prep.ipynb         # Load the data in the panda frame and get the context of the data 
            ├── 02_Data_Exploration.ipynb  # Perform EDA on the given data
